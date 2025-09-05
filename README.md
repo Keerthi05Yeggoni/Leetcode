@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0031-next-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
