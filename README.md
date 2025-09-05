@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0013-roman-to-integer) |
+| [3830-find-closest-person](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
