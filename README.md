@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0013-roman-to-integer) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0031-next-permutation) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Greedy
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 <!---LeetCode Topics End-->
