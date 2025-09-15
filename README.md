@@ -79,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1182-game-play-analysis-iv](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
+| [1877-find-followers-count](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
