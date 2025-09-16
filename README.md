@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0070-climbing-stairs) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3830-find-closest-person](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0031-next-permutation) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1942-primary-department-for-each-employee) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
