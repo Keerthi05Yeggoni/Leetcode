@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0013-roman-to-integer) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0022-generate-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0031-next-permutation) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Counting
