@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2058-concatenation-of-array](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Greedy
 |  |
