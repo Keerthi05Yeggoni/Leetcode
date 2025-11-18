@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0031-next-permutation) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
