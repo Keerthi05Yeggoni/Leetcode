@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1280-students-and-examinations](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1280-students-and-examinations) |
 | [1292-immediate-food-delivery-ii](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
+| [1341-movie-rating](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1341-movie-rating) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
