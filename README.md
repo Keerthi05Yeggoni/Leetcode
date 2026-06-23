@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0013-roman-to-integer) |
+| [1189-maximum-number-of-balloons](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0022-generate-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
