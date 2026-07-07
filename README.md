@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0031-next-permutation) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0169-majority-element) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0169-majority-element) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
