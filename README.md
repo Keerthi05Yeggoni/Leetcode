@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0322-coin-change) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Backtracking
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0322-coin-change) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
