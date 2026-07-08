@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0322-coin-change) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2784-check-if-array-is-good](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
