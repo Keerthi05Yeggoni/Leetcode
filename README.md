@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
