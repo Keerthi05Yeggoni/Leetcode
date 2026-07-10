@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0169-majority-element) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
