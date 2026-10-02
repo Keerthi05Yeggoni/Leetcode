@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0020-valid-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -243,5 +245,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
