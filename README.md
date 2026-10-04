@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -247,4 +251,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
