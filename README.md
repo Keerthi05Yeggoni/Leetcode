@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0875-koko-eating-bananas](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1254-number-of-closed-islands](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -237,12 +238,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sliding Window
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0322-coin-change) |
+| [1254-number-of-closed-islands](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
