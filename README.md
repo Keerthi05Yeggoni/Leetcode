@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3693-climbing-stairs-ii](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3693-climbing-stairs-ii](https://github.com/Keerthi05Yeggoni/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
